@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cv_related_test"
+  site-url: "https://HasanGoni.github.io/cv_related_test"
+  description: "cv_realted_test"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/cv_related_test"
